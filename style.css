@@ -171,6 +171,8 @@ footer {
   }
 }
 
+/* Animação do botão de temas */
+
 @keyframes slide-in {
   from {
     left: 0;
