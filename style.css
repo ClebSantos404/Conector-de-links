@@ -86,6 +86,12 @@ body * {
   animation: slide-in 0.2s forwards;
 }
 
+/* hover do botão de temas */
+
+#switch button:hover {
+  outline: 8px solid var(--highlinght-color);
+}
+
 /* fundo do botão */
 
 #switch span {
